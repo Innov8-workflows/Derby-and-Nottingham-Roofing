@@ -1,6 +1,5 @@
-/* Customer reviews, the single source of truth for both the main site
-   (app.js) and the landing pages (lp.js). Swapping these for real Google
-   reviews is a one-file edit; no markup changes anywhere. */
+
+
 window.DNR_REVIEWS = [
     { name: "Sarah M.", area: "Derby", time: "2 weeks ago", text: "Brilliant from start to finish. Came out the same day for a quote, turned up when they said and left everything spotless. Roof looks fantastic, couldn't recommend them more." },
     { name: "James P.", area: "Nottingham", time: "1 month ago", text: "Had a leak that two other roofers couldn't sort. These guys found the problem straight away and fixed it properly. Fair price and a proper job. Top marks." },
